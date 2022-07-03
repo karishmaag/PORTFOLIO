@@ -151,6 +151,11 @@ progress[value]::-webkit-progress-bar{
     justify-self: center;
     align-items: center;
 }
+#port div article img
+{
+ height: 25vh;
+ width:20vw;
+}
 
   
   
